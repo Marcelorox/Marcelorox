@@ -28,4 +28,3 @@
 >
 
 </div>
-![Snake animation](https://github.com/Marcelorox/Marcelorox/blob/output/github-contribution-grid-snake.svg)
